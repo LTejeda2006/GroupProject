@@ -1,0 +1,2 @@
+homework|cs3354 project|false
+final|cs 3354 final|true
